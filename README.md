@@ -4,18 +4,20 @@ Serverless Website to register a wishlist that can be shared with others. Built 
 
 TODO:
 ## Client side
-* [ ] Create landing page
- * [ ] Add search field to find wishlist
- * [x] Add button to route to setup page
-* [ ] Create wishlist setup page
- * [ ] Create Wishlist component
-   * [ ] Add button to remove items 
- * [ ] Create Wishlist-item component
- * [ ] Add button to post Wishlist to firebase
+* [x] Create landing page
+  * [ ] Add search field to find wishlist
+  * [x] Add button to route to setup page
+* [x] Create wishlist setup page
+  * [x] Create Wishlist component
+    * [x] Add button to remove items 
+  * [x] Create Wishlist-item component
+  * [ ] Add button to post Wishlist to firebase
 * [ ] Create wishlist page
- * [ ] List all wishlist items and links
-* [ ] Add router to switch between pages
+  * [ ] List all wishlist items and links
+* [x] Add router to switch between pages
 
+## Client side styling
+* [ ] Use bootstrap to style all the components
 
 
 ## To deploy everything to the same heroku instance
